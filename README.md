@@ -1,2 +1,2 @@
-# hello_python
-파이썬 스터디 프로젝트(연습용)
+# Seaborn
+Seaborn 스터디(연습용)
